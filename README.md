@@ -1,16 +1,23 @@
-## Hi there 👋
+I'm currently a student in the ALX Software Engineering Program, specializing in Backend Development. This Github serves as a portfolio of my journey-full of code ,challenges and growth as I build the skills to become a professional backend engineer.  
+Aspiring **Backend Developer **
+Focused on writing clean,efficient  and scalable code 
+Passionate about System programming and backend architecture 
+Alway open to collaboration ,code review and learning new technology
 
-<!--
-**mactee51/mactee51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##What You'll Find Here 
+**C programming projects :memory management,pointers,data structures 
+**Shell scripting :automation and command-line utilities
+**Git based version control on real-world assignments 
+Projects from low-level to high-level language
 
-Here are some ideas to get you started:
+##Core Technologies
+C (Low-level programming)
+Python
+Bash/Shell
+Git & Github 
+Linux/unix system 
+Algorithms and Data Sructures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect
+linkedin- Temitope Aluko
+Open to mentorship,feedback,and backend-focuseed collaboration
